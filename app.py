@@ -145,4 +145,4 @@ else:
 
 # Add footer with app info
 st.markdown("---")
-st.caption("AI Journalist- Powered by CrewAI and OpenAI by Euron ")
+st.caption("AI Journalist- Powered by CrewAI and OpenAI")
